@@ -44,7 +44,7 @@ Collection of reusable Docker configurations for web projects. Includes setups f
 
 - 📧 Email: [adibanomid@gmail.com](mailto:adibanomid@gmail.com)
 - 🔗 LinkedIn: [linkedin.com/in/adibanomid](https://linkedin.com/in/adibanomid)
-- 📄 [View My Resume](https://github.com/adibanomid/adibanomid/blob/main/Omid-Adibanfar-Resume.pdf)
+- 📄 [View My Resume](https://github.com/Adibanomid/Adibanomid/blob/main/Omid-Adibanfar.pdf)
 
 ---
 
