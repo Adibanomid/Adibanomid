@@ -48,9 +48,9 @@ Collection of reusable Docker configurations for web projects. Includes setups f
 
 ---
 
-## 📈 GitHub Stats (Optional)
+## 📈 GitHub Stats
 
-![Omid's GitHub stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=default)
+![Omid's GitHub stats](https://github-readme-stats.vercel.app/api?username=Adibanomid&show_icons=true&theme=default)
 
 ---
 
