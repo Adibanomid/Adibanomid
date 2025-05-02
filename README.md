@@ -48,11 +48,5 @@ Collection of reusable Docker configurations for web projects. Includes setups f
 
 ---
 
-## 📈 GitHub Stats
-
-![Omid's GitHub stats](https://github-readme-stats.vercel.app/api?username=Adibanomid&show_icons=true&theme=default)
-
----
-
 > “Code is like humor. When you have to explain it, it’s bad.” – Cory House
 
